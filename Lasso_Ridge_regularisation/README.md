@@ -1,0 +1,1 @@
+Il existe plusieurs types de régressions en machine learning. Ici, on s'intéresse plutôt aux deux  types de régularisation que l'on peut rencontrer souvent à savoir lasso et ridge régularisation et la possible différence qui existe entre elles. 
